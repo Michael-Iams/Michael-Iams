@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Michael-Iams
+👋 Hello.. Thanks for checking me out.  Yes, I see you over there...
+
+A few things about me.
 - 👀 I’m interested in AWS Cloud, Kubernetes, and cloud-native app development using DevSecOps.
 - 🌱 I’m currently learning how to architect and support multi-tenant Kubernetes environments.
 - 💞️ In personal life, I’m looking to collaborate on genealogy research regarding all derivations of the "Iams" surname.
